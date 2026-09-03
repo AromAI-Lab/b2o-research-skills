@@ -62,8 +62,19 @@ skills/
     templates/positioning.md
     checklists/differentiation-check.md
 examples/
-  bds-ai-sales-agent/              kết quả chạy thử trên ngành BĐS Việt Nam
+  bds-ai-sales-agent/              chạy thử đủ 3 skill trên ngách "AI lọc lead căn hộ chung cư, bán cho sale cá nhân"
+    research.md                    skill 1 → Bài tập 1 (1-page research)
+    teardown-structurely.md        skill 2
+    teardown-roof-ai.md            skill 2
+    positioning.md                 skill 3 → Bài tập 2 (ICP, giá, USP + bảng differentiation check)
+    risks-and-mitigation.md        nghiên cứu sâu 5 rủi ro + phương án + khuyến nghị
 ```
+
+## Bài học sau lần chạy đầu (feedback loop)
+
+- Chuẩn "≤ 700 từ" của skill 1 không thực tế với tiếng Việt + 10 đối thủ + link nguồn → sửa thành ≈ 1 trang A4 / 1.200–1.700 từ.
+- Differentiation check **loại đúng USP mà founder định dùng** ("chấm Nóng/Ấm/Lạnh" trùng ~80 % với Roof AI) và ép tìm khác biệt thật (mức "Ảo", tiêu chí chung cư VN, không cần OA). Đây là lý do bước này bắt buộc.
+- Rủi ro lớn nhất không lộ ra ở bước research thị trường mà ở bước rủi ro nền tảng (Zalo không có API cá nhân) → skill 1 v0.2 nên thêm mục "Rủi ro nền tảng phân phối/dữ liệu" vào Bước 6.
 
 ## Tác giả
 

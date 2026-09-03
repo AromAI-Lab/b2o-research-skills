@@ -75,6 +75,7 @@ Chọn 2 trục **có ý nghĩa với khách hàng**, không phải trục kỹ 
 - Đối thủ nguy hiểm nhất và vì sao
 - Mức giá thị trường đang chấp nhận (dải min–max)
 - 1 rủi ro lớn nhất (ví dụ: nền tảng lớn ra tính năng đè)
+- **Rủi ro nền tảng dữ liệu/phân phối** (thêm ở v0.2 sau lần chạy đầu): sản phẩm lấy dữ liệu đầu vào và chạm khách qua nền tảng nào (Zalo, Messenger, TikTok, sàn…)? Nền tảng đó có API chính thức cho tệp khách của mình không, phí bao nhiêu, ToS cấm gì? Nếu câu trả lời là "không có API hợp lệ" thì đó là rủi ro số 1, xếp trên mọi rủi ro thị trường.
 - Bước tiếp theo: chạy `competitor-teardown` cho ai, rồi `product-positioning`
 
 ## 2. Tiêu chuẩn đầu ra
