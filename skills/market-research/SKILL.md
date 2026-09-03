@@ -79,7 +79,7 @@ Chọn 2 trục **có ý nghĩa với khách hàng**, không phải trục kỹ 
 
 ## 2. Tiêu chuẩn đầu ra
 
-- File `research.md` theo `templates/one-page-research.md`. **Tối đa ~700 từ + 2 bảng** — vượt là chưa chắt lọc.
+- File `research.md` theo `templates/one-page-research.md`. **Khoảng 1 trang A4 ≈ 1.200–1.700 từ tiếng Việt kể cả bảng và link nguồn** (tiếng Việt đa âm tiết nên đếm từ cao hơn tiếng Anh). Phần chữ ngoài bảng không quá ~600 từ — vượt là chưa chắt lọc. *(Chuẩn này chỉnh sau lần chạy thử đầu: bản 700 từ không đủ chỗ cho 10 đối thủ + nguồn.)*
 - Mọi con số có nguồn (link + năm) hoặc ghi rõ là ước lượng.
 - Phân biệt rõ trong văn bản: **Dữ kiện** / **Giả định** / **Suy luận**.
 - Giá luôn ghi kèm ngày xem vì SaaS đổi giá thường xuyên.
